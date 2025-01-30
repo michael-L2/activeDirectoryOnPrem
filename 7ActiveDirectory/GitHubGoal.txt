@@ -1,0 +1,1 @@
+The goal of this exercise is to create a resource group with a virtual network consisting of a domain controller and a client, with thousands of users... And deploying Active Directory!
