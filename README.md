@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flogodix.com%2Flogo%2F353645.png&sp=1738272373T2fc24d6140fcb13041f0d490a526db6b890ab3883e6549e4c43edad3e07ddd60" alt="Azure AD Logo" />
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Symbol.png" alt="Azure AD Logo" />
 </p>
 
 <h1 align="center">Microsoft Azure / Entra ID: Configuring On-premises Active Directory within Azure VMs</h1>
